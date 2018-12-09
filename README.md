@@ -1,2 +1,2 @@
 # opus-wiki
-OpusOS documentation
+Opus OS documentation
